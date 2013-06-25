@@ -1,0 +1,8 @@
+name    'jalli-wireshark'
+version '0.0.1'
+source 'http://github.com/jalli/puppet-module-wireshark'
+author 'jalli'
+license 'GNU General Public License, Version 3.0'
+summary 'Setup wireshark with GUI'
+description 'Sets up wireshark with GUI'
+project_page 'http://github.com/jalli/puppet-module-wireshark'
